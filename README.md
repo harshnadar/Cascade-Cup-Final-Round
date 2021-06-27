@@ -1,6 +1,6 @@
 # Cascade-Cup-Final-Round
 
-##Problem Statement:
+## Problem Statement:
 
 Absenteeism is a habitual pattern of absence from a duty or obligation without good reason. Generally, absenteeism is unplanned absences. If a workplace exhibits a high degree of absenteeism there is a problem. It has been viewed as an indicator of poor individual performance, as well as a breach of an implicit contract between employee and employer.
 
